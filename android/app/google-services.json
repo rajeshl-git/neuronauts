@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "947245907753",
+    "project_id": "neuronauts-real-one",
+    "storage_bucket": "neuronauts-real-one.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:947245907753:android:5e60f0c6a66c56133b8138",
+        "android_client_info": {
+          "package_name": "com.example.neuronauts_real"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfl4r-k1k1twEDiqLQcFgJx1FnXlbq0AA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
